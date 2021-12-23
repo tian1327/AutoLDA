@@ -14,7 +14,7 @@ Different implementation schemes of Hyperband with LDA were explored:
 
 Random Search and Grid Search were implemented as a baseline to compare with Hyperband. The results on our data shows that using the W2V score, Hyperband can find better hyperparameters than random search. It also yields great clustering results.
 
-More details can be found in the [poster](https://sites.google.com/view/autolda/poster?authuser=0) and [website](https://sites.google.com/view/autolda/home).
+More details can be found in the [website](https://sites.google.com/view/autolda/home) and [poster](https://sites.google.com/view/autolda/poster?authuser=0).
 
 ## Hyperband + LDA
 To run Hyperband with LDA using W2V embeddings:
