@@ -1,6 +1,8 @@
 # AutoLDA
 
-Project for CSCE676 Data Mining course. In this project, we implemented different hyperparameter searching methods to find the best hyperparameters for LDA, including Hyperband, Grid Search, Random Search. Specifically, we implemented Hyperband with LDA using number of iterations as resources. The results comparing against Random Search shows Hyperband achieves better score and clustering results.
+Project for CSCE676 Data Mining course. 
+
+In this project, we implemented different hyperparameter searching methods to find the best hyperparameters for LDA, including Hyperband, Grid Search, Random Search. Specifically, we implemented Hyperband with LDA using number of iterations as resources. The results comparing against Random Search shows Hyperband achieves better score and clustering results.
 
 Different implementation schemes of Hyperband with LDA were explored:
 

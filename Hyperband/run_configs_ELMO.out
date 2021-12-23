@@ -1,0 +1,58 @@
+loading data
+loading full data
+num = 2
+emb_model = ELMO
+
+============================== best 2:
+idx = 0
+
+--------------------
+{'doc_topic_prior': 0.6601592881968781,
+ 'max_df': 0.6423533508852788,
+ 'min_df': 0.05487471489865918,
+ 'topic_number': 13,
+ 'topic_word_prior': 1.1014913298754196}
+n_iter = 81
+coh_sum = 139.40086145401
+dif_sum = 74.39035892486572
+center_distance bt topic0 and topic1 = 8.74424
+lda_score= 0.5336434663957079
+
+Topic 1: picture birthday mom baby wait girl family school sister dad 
+Topic 2: black life matter fight thank end number hair place case 
+Topic 3: wear top size buy one dress cute short sell shirt 
+Topic 4: cake obviously birthday help top mom leave definitely bag light 
+Topic 5: man tell talk give basically kid keep job week stay 
+Topic 6: vlog quarantine book week read life do morning film new 
+Topic 7: hair makeup eat clean face morning shower nice sure do 
+Topic 8: study lead student subscribe computer welcome fish ice completely thank 
+Topic 9: study lead student subscribe computer welcome fish ice completely thank 
+Topic 10: apartment move room new live space big bed plant nice 
+Topic 11: flight walk travel airport trip fly vlog thank plane hope 
+Topic 12: stay mask week store happen place walk crazy wear close 
+Topic 13: eat food chicken add week cook nice store buy breakfast 
+idx = 1
+
+--------------------
+{'doc_topic_prior': 0.47251718361612194,
+ 'max_df': 0.669119723535962,
+ 'min_df': 0.13863144011161826,
+ 'topic_number': 10,
+ 'topic_word_prior': 0.944441011741589}
+n_iter = 81
+coh_sum = 106.54603862762451
+dif_sum = 57.484609603881836
+center_distance bt topic0 and topic1 = 9.191692
+lda_score= 0.5395283611133491
+
+Topic 1: eat food buy tell baby give pick already wait whole 
+Topic 2: apartment move room new love show bed live year nice 
+Topic 3: use love show nice coffee super new makeup add wear 
+Topic 4: hair face use shower do wash picture show makeup quarantine 
+Topic 5: mask wear car store street empty grocery mean usually place 
+Topic 6: top wear dress love short shirt fall small piece shoe 
+Topic 7: talk mean happen life family live give many business job 
+Topic 8: walk week stay open vlog crazy close last quarantine hope 
+Topic 9: man basically camera show run probably tell last use vlog 
+Topic 10: morning book class life read love hour quarantine night minute 
+saving best res ......

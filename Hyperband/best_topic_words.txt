@@ -1,0 +1,95 @@
+W2V
+{'doc_topic_prior': 0.7787320464613223,
+ 'max_df': 0.6275582566464325,
+ 'min_df': 0.17399935350583423,
+ 'topic_number': 5,
+ 'topic_word_prior': 0.5619868867563604}
+lda_score= 0.545435639358196
+Topic 1: move apartment room vlog new camera live clean nice space 
+Topic 2: man talk life tell family happen give live basically many 
+Topic 3: hair wear makeup cute do color picture face top super 
+Topic 4: morning eat quarantine night hour workout do minute literally class 
+Topic 5: store walk mask open grocery close car wear buy place 
+
+GLOVE 
+{'doc_topic_prior': 0.8558105900455111,
+ 'max_df': 0.6377452716574089,
+ 'min_df': 0.034392880698395294,
+ 'topic_number': 11,
+ 'topic_word_prior': 0.9211954294252036}
+lda_score= 0.43884364161553957
+
+Topic 1: man basically tell run car camera probably money big got 
+Topic 2: science lead awkward welcome due subscribe youtuber button math lift 
+Topic 3: store food eat grocery buy mask hand find rice whole 
+Topic 4: class life school vlog morning keep quarantine great year youtube 
+Topic 5: walk open place street park close nice city empty hope 
+Topic 6: science lead awkward welcome due subscribe youtuber button math lift 
+Topic 7: talk happen family life give live call case hope tell 
+Topic 8: flight car travel trip airport drive fly pack give eat 
+Topic 9: hair literally eat do morning wear makeup nice super vlog 
+Topic 10: size top sell short pair wear tank dress jacket style 
+Topic 11: apartment move new room live bed plant keep big nice 
+
+BERT
+{'doc_topic_prior': 1.880046081862404,
+ 'max_df': 0.6166907468836236,
+ 'min_df': 0.061717277037395865,
+ 'topic_number': 13,
+ 'topic_word_prior': 0.032410726009730814}
+lda_score= 0.36156317222169
+Topic 1: store open walk close nice obviously happy vlog family outside 
+Topic 2: mask happen crazy virus wear case number safe many place 
+Topic 3: man basically run money tell couple real quick old got 
+Topic 4: move apartment room new live space big area empty place 
+Topic 5: read book life finish quarantine month great word friend play 
+Topic 6: makeup hair wear super coffee color nice one literally cute 
+Topic 7: picture eat literally flight mom wait cute thank trip tell 
+Topic 8: vlog do hope happen whole thank hair bring tomorrow continue 
+Topic 9: morning walk bed maybe nice clean paint new night wake 
+Topic 10: food eat store buy grocery chicken rice egg bag cook 
+Topic 11: kid year business morning school parent find guess happen job 
+Topic 12: school car class call eat hope change sure drive always 
+Topic 13: vlog youtube honestly quarantine workout camera film channel do post 
+
+ELMO best
+{'doc_topic_prior': 0.6601592881968781,
+ 'max_df': 0.6423533508852788,
+ 'min_df': 0.05487471489865918,
+ 'topic_number': 13,
+ 'topic_word_prior': 1.1014913298754196}
+lda_score= 0.5336434663957079
+Topic 1: picture birthday mom baby wait girl family school sister dad 
+Topic 2: black life matter fight thank end number hair place case 
+Topic 3: wear top size buy one dress cute short sell shirt 
+Topic 4: cake obviously birthday help top mom leave definitely bag light 
+Topic 5: man tell talk give basically kid keep job week stay 
+Topic 6: vlog quarantine book week read life do morning film new 
+Topic 7: hair makeup eat clean face morning shower nice sure do 
+Topic 8: study lead student subscribe computer welcome fish ice completely thank 
+Topic 9: study lead student subscribe computer welcome fish ice completely thank 
+Topic 10: apartment move room new live space big bed plant nice 
+Topic 11: flight walk travel airport trip fly vlog thank plane hope 
+Topic 12: stay mask week store happen place walk crazy wear close 
+Topic 13: eat food chicken add week cook nice store buy breakfast 
+
+ELMO 2nd best
+
+{'doc_topic_prior': 0.47251718361612194,
+ 'max_df': 0.669119723535962,
+ 'min_df': 0.13863144011161826,
+ 'topic_number': 10,
+ 'topic_word_prior': 0.944441011741589}
+lda_score= 0.5395283611133491
+
+Topic 1: eat food buy tell baby give pick already wait whole 
+Topic 2: apartment move room new love show bed live year nice 
+Topic 3: use love show nice coffee super new makeup add wear 
+Topic 4: hair face use shower do wash picture show makeup quarantine 
+Topic 5: mask wear car store street empty grocery mean usually place 
+Topic 6: top wear dress love short shirt fall small piece shoe 
+Topic 7: talk mean happen life family live give many business job 
+Topic 8: walk week stay open vlog crazy close last quarantine hope 
+Topic 9: man basically camera show run probably tell last use vlog 
+Topic 10: morning book class life read love hour quarantine night minute 
+
