@@ -1,0 +1,111 @@
+LDA_v0
+max_df=0.9, min_df=0.05, topic_number=7
+scoring: [477.86599932007675, -0.4241962978359045, 0.29370322341239663, 0.26937889095977, 0.31914820284941187]
+Topic 0
+['people', 'right', 'guy', 'mask', 'take', 'lot', 'come', 'car', 'look', 'time', 'say', 'store', 'let', 're', 'man', 'back', 'home', 'stay', 'even', 'think']
+Topic 1
+['guy', 'make', 'video', 'right', 'day', 'little', 've', 'today', 'think', 'vlog', 'look', 'put', 'use', 'show', 'love', 'actually', 'let', 'take', 'also', 'try']
+Topic 2
+['today', 'jacket', 'dress', 'small', 'finish', 'old', 'bed', 'put', 'morning', 'actually', 'day', 'fire', 'history', 'makeup', 'dirty', 'finished', 'forgot', 'lazy', 'cover', 'mood']
+Topic 3
+['think', 'guy', 'make', 've', 'little', 'thing', 'back', 'right', 'look', 'video', 'work', 'kind', 'mean', 'time', 'people', 'home', 'also', 'much', 'today', 'take']
+Topic 4
+['thing', 'think', 'time', 'say', 'work', 'right', 'people', 'day', 've', 'make', 'feel', 'video', 'lot', 'guy', 'little', 'take', 'come', 'kind', 'today', 'look']
+Topic 5
+['make', 'little', 'think', 'guy', 'day', 've', 'put', 'time', 'eat', 'also', 'look', 'kind', 'use', 'try', 'thing', 'love', 'food', 'bit', 'well', 'need']
+Topic 6
+['little', 'look', 'think', 'guy', 'right', 'kind', 'stuff', 'put', 'use', 'thing', 've', 'make', 'take', 'actually', 'feel', 'lot', 'much', 'apartment', 'love', 'let']
+
+
+
+LDA_v1
+max_df=0.6, min_df=0.05, topic_number=15
+scoring: [707.9548372140632, -1.1483269101600073, 0.4069123718025332, 0.3480979813972892, 0.47417018089253526]
+Topic 0
+['life', 'happen', 'man', 'live', 'tell', 'family', 'crazy', 'many', 'sure', 'bad', 'whole', 'call', 'house', 'close', 'virus', 'business', 'friend', 'school', 'leave', 'world']
+Topic 1
+['special', 'thank', 'vlog', 'happen', 'reallyn', 'eat', 'favorite', 'family', 'never', 'care', 'sure', 'whole', 'grocery', 'face', 'bad', 'basically', 'sponsor', 'crazy', 'welcome', 'quarantine']
+Topic 2
+['food', 'eat', 'buy', 'favorite', 'chicken', 'egg', 'bread', 'rice', 'toast', 'new', 'super', 'milk', 'coffee', 'cook', 'fruit', 'grocery', 'dinner', 'excited', 'never', 'store']
+Topic 3
+['apartment', 'move', 'size', 'room', 'live', 'new', 'vlog', 'find', 'definitely', 'year', 'space', 'class', 'top', 'price', 'super', 'wear', 'different', 'maybe', 'like', 'picture']
+Topic 4
+['never', 'call', 'life', 'class', 'literally', 'bad', 'finish', 'apartment', 'end', 'tell', 'whole', 'voice', 'thank', 'room', 'do', 'face', 'shower', 'nice', 'night', 'hour']
+Topic 5
+['dress', 'brand', 'item', 'top', 'buy', 'quick', 'pant', 'sell', 'milk', 'cute', 'finish', 'ship', 'heavy', 'large', 'hold', 'pasta', 'emergency', 'ice', 'market', 'cream']
+Topic 6
+['child', 'happen', 'family', 'parent', 'kid', 'channel', 'case', 'youtube', 'process', 'situation', 'stop', 'ever', 'especially', 'life', 'never', 'care', 'sad', 'help', 'fact', 'whole']
+Topic 7
+['eat', 'hair', 'morning', 'do', 'quarantine', 'literally', 'nice', 'vlog', 'finish', 'clean', 'always', 'face', 'shower', 'makeup', 'night', 'basically', 'like', 'sure', 'minute', 'ready']
+Topic 8
+['book', 'read', 'camera', 'vlog', 'vlogge', 'flight', 'recommend', 'board', 'page', 'room', 'tell', 'phone', 'sure', 'play', 'different', 'highly', 'clean', 'end', 'game', 'app']
+Topic 9
+['walk', 'store', 'mask', 'open', 'car', 'wear', 'nice', 'close', 'place', 'empty', 'picture', 'grocery', 'park', 'crazy', 'head', 'line', 'thank', 'usually', 'stop', 'safe']
+Topic 10
+['pick', 'test', 'exciting', 'end', 'sign', 'music', 'line', 'cheese', 'tomorrow', 'random', 'load', 'bless', 'believe', 'mmm', 'print', 'buddy', 'drive', 'result', 'eventually', 'cover']
+Topic 11
+['room', 'spot', 'name', 'bottom', 'eyebrow', 'rock', 'message', 'rain', 'check', 'walk', 'top', 'step', 'event', 'email', 'hopefully', 'suppose', 'line', 'win', 'blow', 'run']
+Topic 12
+['art', 'artist', 'course', 'write', 'music', 'book', 'learn', 'brother', 'whole', 'dream', 'online', 'beautiful', 'focus', 'gift', 'maybe', 'vegan', 'option', 'study', 'life', 'dad']
+Topic 13
+['eyebrow', 'match', 'thick', 'never', 'chance', 'dark', 'year', 'almost', 'color', 'ever', 'hair', 'row', 'exact', 'grow', 'run', 'sure', 'peanut', 'process', 'worth', 'always']
+Topic 14
+['morning', 'live', 'walk', 'dog', 'die', 'pick', 'breakfast', 'yesterday', 'state', 'mask', 'normally', 'free', 'write', 'pant', 'scary', 'jacket', 'case', 'roommate', 'maybe', 'several']
+
+
+
+
+LDA_v2
+max_df=0.9, min_df=0.05, topic_number=15
+scoring: [480.42134976092484, -0.46161335351200644, 0.3559542344942004, 0.3110798404605851, 0.37992934062696326]
+Topic 0
+['mask', 'wear', 'glove', 'take', 'people', 'wipe', 'guy', 'hand', 'touch', 'even', 'keep', 'egg', 'rice', 'safe', 'sure', 'home', 'protect', 'eat', 'lot', 'wash']
+Topic 1
+['love', 'tooth', 'guy', 'anyway', 'right', 'color', 'hair', 'absolutely', 'video', 'towel', 'post', 'new', 'little', 'let', 'also', 'put', 'switch', 'mirror', 'turn', 'sorry']
+Topic 2
+['make', 'people', 'take', 'guy', 'right', 'think', 'back', 'come', 'little', 'time', 'look', 'day', 'put', 'thing', 'today', 'need', 'video', 'work', 'give', 'say']
+Topic 3
+['size', 'make', 'little', 'think', 'back', 'lot', 'kind', 'guy', 'love', 'look', 'next', 've', 'pretty', 'work', 'well', 'also', 'time', 'store', 'right', 'thing']
+Topic 4
+['day', 'think', 've', 'work', 'time', 'make', 'guy', 'thing', 'little', 'video', 'right', 'feel', 'today', 'take', 'look', 'lot', 'kind', 'start', 'try', 'let']
+Topic 5
+['make', 'also', 'little', 've', 'eat', 'think', 'day', 'put', 'guy', 'need', 'time', 'thing', 'add', 'love', 'water', 'cook', 'smoothie', 'dinner', 'watch', 'chicken']
+Topic 6
+['little', 'use', 'look', 'make', 'think', 'guy', 'put', 'try', 'kind', 'take', 've', 'bit', 'actually', 'love', 'show', 'hair', 'feel', 'also', 'much', 'right']
+Topic 7
+['flight', 'airport', 'travel', 'come', 'fly', 'plane', 'back', 'hour', 'take', 'tell', 'day', 'trip', 'time', 'bag', 'happen', 'guy', 've', 're', 'night', 'hotel']
+Topic 8
+['lip', 'vanilla', 'sleep', 'size', 'train', 'thing', 'mask', 'sell', 'point', 'ask', 'smell', 'one', 'glass', 'carry', 'night', 'speak', 'butter', 'leave', 'feel', 'yoga']
+Topic 9
+['guy', 'right', 'video', 'let', 'make', 'today', 'look', 'show', 'vlog', 'think', 'time', 'say', 'much', 'little', 'day', 'pretty', 'back', 'love', 'man', 'camera']
+Topic 10
+['people', 'right', 'look', 'lot', 'store', 'time', 'take', 'walk', 'think', 'open', 'grocery', 'car', 'little', 'let', 'pretty', 'thing', 'mask', 'actually', 'guy', 'place']
+Topic 11
+['guy', 'people', 'day', 'take', 'make', 'think', 'feel', 'thing', 'time', 'look', 'lot', 'right', 'little', 'put', 'today', 'say', 'even', 'much', 'try', 'work']
+Topic 12
+['size', 'back', 've', 'little', 'day', 'look', 'time', 'morning', 'find', 'think', 'thing', 'much', 'kind', 'also', 'last', 'love', 'need', 'lot', 'store', 'actually']
+Topic 13
+['apartment', 'little', 'stuff', 'guy', 'move', 'look', 'room', 'right', 'thing', 'think', 'put', 'much', 'make', 'lot', 've', 'also', 'come', 'work', 'kind', 'actually']
+Topic 14
+['people', 'say', 'thing', 'think', 'time', 'man', 'right', 'come', 'mean', 'video', 'lot', 've', 'make', 'stuff', 'even', 'work', 'kind', 'happen', 'take', 're']
+
+
+
+
+LDA_expected
+max_df=0.6, min_df=0.05, topic_number=7
+scoring: [695.0525386431732, -0.9638968473832096, 0.37649098041633183, 0.30506459921835843, 0.5440363292151527]
+Topic 0
+['man', 'happen', 'life', 'live', 'school', 'many', 'family', 'tell', 'year', 'kid', 'leave', 'sure', 'place', 'friend', 'bad', 'end', 'business', 'find', 'month', 'world']
+Topic 1
+['bag', 'hair', 'always', 'clip', 'lip', 'color', 'read', 'essential', 'type', 'honestly', 'turn', 'cute', 'vitamin', 'important', 'ahead', 'nail', 'vlog', 'crazy', 'face', 'hand']
+Topic 2
+['store', 'open', 'grocery', 'food', 'car', 'mask', 'whole', 'walk', 'close', 'literally', 'crazy', 'eat', 'empty', 'flight', 'buy', 'leave', 'nice', 'wait', 'line', 'place']
+Topic 3
+['vlog', 'new', 'apartment', 'move', 'room', 'do', 'maybe', 'walk', 'morning', 'nice', 'camera', 'set', 'film', 'like', 'live', 'great', 'end', 'big', 'class', 'year']
+Topic 4
+['account', 'pink', 'ginger', 'rate', 'wouldn', 'worry', 'paper', 'eat', 'fall', 'zoom', 'roll', 'money', 'front', 'complete', 'stretch', 'vibe', 'result', 'wall', 'surprise', 'hair']
+Topic 5
+['eat', 'top', 'size', 'wear', 'cute', 'color', 'hair', 'nice', 'clean', 'add', 'literally', 'quarantine', 'super', 'buy', 'do', 'one', 'always', 'coffee', 'new', 'like']
+Topic 6
+['morning', 'eat', 'face', 'book', 'clean', 'night', 'hair', 'read', 'walk', 'hour', 'call', 'sleep', 'wake', 'tell', 'do', 'minute', 'shower', 'house', 'sure', 'nice']
