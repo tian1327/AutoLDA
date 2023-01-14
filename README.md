@@ -1,6 +1,8 @@
 # AutoLDA
 
-### CSCE676 Data Mining Course Project (Fall 2021). 
+### CSCE676 Data Mining Course Project (Fall 2021) 
+
+![alt text](https://github.com/tian1327/AutoLDA/blob/master/AutoLDA_logo.png "AutoLDA_logo")
 
 [[Original github repo](https://github.com/jncsw/AutoLDA)] [[Website](https://sites.google.com/view/autolda/home)] [[Poster](https://sites.google.com/view/autolda/poster?authuser=0)]
 
