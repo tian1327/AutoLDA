@@ -1,6 +1,8 @@
 # AutoLDA
 
-Project for CSCE676 Data Mining course (Fall 2021). The github used during development can be found [here](https://github.com/jncsw/AutoLDA).
+### CSCE676 Data Mining Course Project (Fall 2021). 
+
+[[Original github repo](https://github.com/jncsw/AutoLDA)] [[Website](https://sites.google.com/view/autolda/home)] [[Poster](https://sites.google.com/view/autolda/poster?authuser=0)]
 
 In this project, we implemented different hyperparameter searching methods to find the best hyperparameters for LDA, including **Hyperband, Grid Search, Random Search**. Specifically, we implemented Hyperband with LDA using number of iterations as resources. The results comparing against Random Search shows Hyperband achieves better score and clustering results.
 
@@ -14,9 +16,7 @@ Different implementation schemes of Hyperband with LDA were explored:
 
 Random Search and Grid Search were implemented as a baseline to compare with Hyperband. The results on our data shows that using the W2V score, Hyperband can find better hyperparameters than random search. It also yields great clustering results.
 
-More details can be found in our [website](https://sites.google.com/view/autolda/home) and [poster](https://sites.google.com/view/autolda/poster?authuser=0).
-
-## Hyperband + LDA
+#### Hyperband + LDA
 To run Hyperband with LDA using W2V embeddings:
 ```console
 python main.py results_hb_W2V.pkl W2V
@@ -37,7 +37,7 @@ To plot the score vs. time of each embedding schemes:
 python plot.py
 ```
 
-## Environment Setup for Embeddings
+#### Environment Setup for Embeddings
 Load pretrained embedding models:
 
 1. For GLOVE, download the pretrained model to folder `./Embeddings/GLOVE_pretrained/`, then run `GLOVE.py` to save the loaded model to pkl file
